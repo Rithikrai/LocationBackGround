@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationBackGround</string>
+
+    <string name="alreadyrunning">Service already started</string>
+    <string name="allowgps">GPS enable</string>
+    <string name="running">Started successfully</string>
+    <string name="Turnongps">Please turn on GPS</string>
+    <string name="backgroundpermission">
+       Allow When Using The App To Use Even If The App is Closed</string>
+
+</resources>
